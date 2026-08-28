@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Levir7/Levir7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Levir 
 
-Here are some ideas to get you started:
+## Backend Developer - Guadalajara, MX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollador de Software con experiencia práctica en la creación de aplicaciones web. 
+Estructuro mis desarrollos utilizando arquitectura de microservicios y gestiono la infraestructura
+técnica mediante Docker. Actualmente, enfoco mi perfil hacia la integración de modelos de Inteligencia Artificial para automatizar procesos operativos y modernizar flujos de trabajo.
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/levir-olea-rodríguez-102aa3261)
+
+
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=typescript,nestjs,docker,react,python,fastapi,postgres,supabase)
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Levir7&theme=midnight)
+

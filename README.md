@@ -8,10 +8,7 @@ Estructuro mis desarrollos utilizando arquitectura de microservicios y gestiono 
 técnica mediante Docker. Actualmente, enfoco mi perfil hacia la integración de modelos de Inteligencia Artificial para automatizar procesos operativos y modernizar flujos de trabajo.
 
 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/levir-olea-rodríguez-102aa3261)
-
-
+![Linkedin](www.linkedin.com/in/levir-olea-rodríguez-102aa3261)
 
 ### Stack
 
